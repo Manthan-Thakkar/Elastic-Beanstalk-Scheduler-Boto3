@@ -58,9 +58,9 @@ for asg_count in range(0,len(asg_group_id)):
     print(response)
 
 
-print(env_arn_list)
-print(tag_check)
-print(list_env_tags)
-print(environment_id)
-print(environment_name)
-print(asg_group_id)
+# print(env_arn_list)
+# print(tag_check)
+# print(list_env_tags)
+# print(environment_id)
+# print(environment_name)
+# print(asg_group_id)
